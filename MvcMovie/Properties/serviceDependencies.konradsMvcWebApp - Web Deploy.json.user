@@ -1,4 +1,20 @@
 {
-  "dependencies": {},
-  "parameters": {}
+  "dependencies": {
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2021-11-06T20:38:34.4495608Z"
+    }
+  },
+  "parameters": {
+    "mssql1.subscriptionId": {
+      "Name": "mssql1.subscriptionId",
+      "Type": "subscription",
+      "Value": "c3bf55f7-0513-46be-b41b-63aef0b56718"
+    },
+    "mssql1.resourceGroupName": {
+      "Name": "mssql1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "Student"
+    }
+  }
 }
